@@ -3,7 +3,7 @@ Temporary fix for Unreal Engine 4 which does not display Thai text properly in i
 
 ## How to use
 1. Download the DroidSansFallback.ttf
-2. Replace the file in *<UE4 directory>\Engine\Content\Slate\Fonts* with the downloaded file. Make backup where necessary.
+2. Replace the file in *(UE4 directory)\Engine\Content\Slate\Fonts* with the downloaded file. Make backup where necessary.
 3. Start the engine.
   
 ## Technical Details
